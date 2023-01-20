@@ -1,0 +1,23 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{929495CE-028F-4347-A8D9-F2EEFA556D1D}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>0fdf57d1-0b04-4e17-b956-67500323e222</string>
+      <string>36cc47d4-ee14-438b-adaa-8ab918831b20</string>
+      <string>c87d3ee9-66ab-42e5-8d12-6573becd226b</string>
+      <string>fb52afd3-b646-4175-8f45-cd35711591c0</string>
+      <string>3889d01e-2a39-4c7e-b64f-65cad5987994</string>
+      <string>61e6def0-8daa-4a59-b2ee-4495475e9358</string>
+      <string>fda4234f-8442-4d72-b3aa-a00d71db681a</string>
+      <string>581dd5b3-5683-4d4e-8915-7accfea1e8b4</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution InterProd[HRSS[Code Modules Authentication[]FunctionLibrary[]HRSS_Training.rxtst[]]Ranorex Automation Helpers[Modules[]]]]&#xD;&#xA;Solution InterProd\HRSS\FunctionLibrary\HRSS_Absences_FunctionLibrary.cs&#xD;&#xA;Solution InterProd" />
+  <StartupProject value="{929495CE-028F-4347-A8D9-F2EEFA556D1D}" />
+</Properties>
